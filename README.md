@@ -6,7 +6,7 @@ This repository demonstrates how to implement and use the **Laravel Repository**
 
 ## Table of Contents
 
-1.[laravel-10-crud](https://github.com/haripadajena/laravel/tree/main/laravel-10-crud)
+1. [laravel-10-crud](https://github.com/haripadajena/laravel/tree/main/laravel-10-crud)
 2. [Folder Structure](#folder-structure)
 3. [Installation](#installation)
 4. [Implementation Steps](#implementation-steps)
