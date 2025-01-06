@@ -48,8 +48,6 @@ php/
 
    ```bash
    git clone https://github.com/haripadajena/laravel.git
-   cd laravel
-
 ```
 
 
