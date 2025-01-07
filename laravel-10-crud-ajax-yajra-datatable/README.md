@@ -595,18 +595,18 @@ http://127.0.0.1:8000/products-ajax-crud
 
 ## Index Page
 
-<img src="https://github.com/haripadajena/laravel/blob/main/laravel-10-crud/output-screen/1.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
+<img src="https://github.com/haripadajena/laravel/blob/main/laravel-10-crud-ajax-yajra-datatable/output-screen/1.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
 
 ## Add Modal
 
-<img src="https://github.com/haripadajena/laravel/blob/main/laravel-10-crud/output-screen/2.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
+<img src="https://github.com/haripadajena/laravel/blob/main/laravel-10-crud-ajax-yajra-datatable/output-screen/2.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
 
 ## Edit Modal
 
-<img src="https://github.com/haripadajena/laravel/blob/main/laravel-10-crud/output-screen/3.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
+<img src="https://github.com/haripadajena/laravel/blob/main/laravel-10-crud-ajax-yajra-datatable/output-screen/3.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
 
 ## Delete Modal
 
-<img src="https://github.com/haripadajena/laravel/blob/main/laravel-10-crud/output-screen/4.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
+<img src="https://github.com/haripadajena/laravel/blob/main/laravel-10-crud-ajax-yajra-datatable/output-screen/4.PNG" alt="Description" style="max-width: 100%; height: auto;"/>
 
 

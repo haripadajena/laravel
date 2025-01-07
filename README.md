@@ -7,7 +7,7 @@ This repository demonstrates how to implement and use the **Laravel Repository**
 ## Table of Contents
 
 1. [laravel-10-crud](https://github.com/haripadajena/laravel/tree/main/laravel-10-crud)
-2. [Folder Structure](#folder-structure)
+2. [laravel-10-crud-ajax-yajra-datatable](https://github.com/haripadajena/laravel/tree/main/laravel-10-crud-ajax-yajra-datatable)
 3. [Installation](#installation)
 4. [Implementation Steps](#implementation-steps)
 5. [Example Code](#example-code)
@@ -33,8 +33,8 @@ The Repository Pattern is a design pattern used to separate the business logic f
 php/
 ├── 1. laravel-10-crud 
 │   └── [laravel-10-crud files]
-├── project 2/
-│   ├── [Repository files]
+├── 2. laravel-10-crud-ajax-yajra-datatable/
+│   ├── [laravel-10-crud-ajax-yajra-datatable files]
 ├── project 3/
 │   └── [Controller files]
 └── project 4/
