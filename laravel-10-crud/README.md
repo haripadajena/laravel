@@ -101,24 +101,16 @@ After the bellow command, you will find a new file in this path "app/Http/Contro
 
 In this controller will create seven methods by default as bellow methods:
 1)index()
-
 2)create()
-
 3)store()
-
 4)show()
-
 5)edit()
-
 6)update()
-
 7)destroy()
 ```
-
-```bash
-
 app/Http/Controllers/ProductController.php
 
+```bash
 <?php
 
 namespace App\Http\Controllers;
@@ -232,8 +224,10 @@ class ProductController extends Controller
 
 }
 ```
-```bash
 app/Models/Product.php
+
+```bash
+
 <?php
 
 namespace App\Models;
@@ -249,11 +243,10 @@ class Product extends Model
 
 ```
 
-
 ## Step 5 Add Resource Route
+routes/web.php
 
 ```bash
-routes/web.php
 <?php
 
 use Illuminate\Support\Facades\Route;
