@@ -45,9 +45,16 @@ php/
 
 
 ## Clone the repository
-
    ```bash
    git clone https://github.com/haripadajena/laravel.git
 ```
+## For Download the specific repository
+Note: For Downloading the specific repository please go with the below link and paste the directory path.
 
+[https://download-directory.github.io/](https://download-directory.github.io/)
+   ```bash
+Example of path
+   https://github.com/haripadajena/laravel/tree/main/laravel-10-crud
+
+```
 
